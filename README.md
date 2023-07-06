@@ -1,4 +1,4 @@
-# SalesInsightPowerBIReport
+# PowerBI Report
 
 This case study is based on a computer hardware business (AtliQ hardware) which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and he would like to build power BI dashboard that can give him real time sales insights. 
 
